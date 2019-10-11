@@ -1,2 +1,3 @@
-# leetcode
-My solutions to algorithm problems from leetcode
+# Leetcode Algo-problems
+
+A collection of solved leetcode problems.
